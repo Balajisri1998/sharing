@@ -1,0 +1,15 @@
+/* Reset all the tags */
+*{
+	padding-top: 5px;
+	padding-bottom: 15px;
+	font-family: arial;
+	font-size: 18px;
+}
+/* change the padding to submit button */
+.btn-cus{
+	padding: 3px 30px 3px 30px;
+}
+/* change the table head to bold */
+.bold{
+	font-weight: bold;
+}
